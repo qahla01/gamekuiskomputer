@@ -1,0 +1,120 @@
+Berikut software bawaan Microsoft, kecuali?;
+A.MS Word;
+B.MS Excel;
+C.Adobe Reader;
+C.Adobe Reader;
+|
+Software untuk mendesine majalah adalah;
+A.Winrar;
+B.Corel Draw;
+C.Notepad;
+B.Corel Draw;
+|
+Untuk membuka file denganekstensi .pdf maka diperlukan?;
+A.Adobe reader;
+B.MS Word;
+C.Notepad;
+A.Adobe reader;
+|
+dibawah ini manakah yang bukan termasuk perangkat keras?;
+A.Keabord;
+B.Mozilla Firefox;
+C.Monitor;
+B.Mozilla Firefox;
+|
+dibawah ini manakah yang bukan termasuk perangkat lunak?;
+A.Monitor;
+B.Mozilla Firefox;
+C.Microsoft Excel;
+A.Monitor;
+|
+Laptop bisa terhubung dengan internet melalui media apa?;
+A. Wireless LAN;
+B. Blueray;
+C. Hard Disk;
+A. Wireless LAN;
+|
+Pelaku pencurian data pribadi di internet biasanya tidak akan tertarik dengan informasi personal (pribadi), seperti?;
+A. nama lengkap;
+B. alamat lengkap;
+C. film favorit;
+C. film favorit;
+|
+Berikut faktor-faktor yang memengaruhi efektivitas bekerja dengan kolaborasi virtual, kecuali?;
+A. Ketersediaan waktu untuk berkolaborasi;
+B. Koneksi internet yang stabil;
+C. Software yang mahal dengan banyak fitur;
+C. Software yang mahal dengan banyak fitur;
+|
+Salah satu cara memproteksi data adalah enkripsi. Kata lain dari enkripsi adalah?;
+A. Penyandian;
+B. Penyembunyian;
+C. Perlindungan;
+A. Penyandian;
+|
+Apa itu Construct 2 dan untuk apa biasanya digunakan dalam dunia pengembangan aplikasi atau permainan?;
+A. Software untuk mengedit video;
+B. Perangkat Lunak untuk pengembangan aplikasi mobile;
+C. Software untuk pengembangan game 2D;
+C. Software untuk pengembangan game 2D;
+|
+Di Construct 2, apakah yang dimaksud dengan Event Sheet ?;
+A. Halaman untuk menambahkan animasi;
+B. Halaman tempat membuat desain game;
+C. Halaman yang berisi logika dan alur program dalam game;
+C. Halaman yang berisi program logika dan alur dalam game;
+|
+Apa fungsi dari Layer dalam Construct 2?;
+A. Untuk mengatur elemen dalam urutan visual yang berbeda;
+B. Untuk menambahkan warna pada latar belakang;
+C. Untuk mengubah ukuran elemen;
+A. Untuk mengatur elemen dalam urutan visual yang berbeda;
+|
+Apa kegunaan fitur Drag and Drop di Construct 2?;
+A. Untuk membuat audio;
+B. Untuk mempermudah penempatan objek tanpa menulis kode;
+C. Untuk mengatur ukuran layar;
+B. Untuk mempermudah penempatan objek menulis tanpa kode;
+|
+Apakah peran Sprite di Construct 2?;
+A. Sebagai objek visual yang bisa dianimasikan;
+B. Sebagai kode pemrograman;
+C. Sebagai pengaturan tata letak;
+A. Sebagai objek visual yang bisa dianimasikan;
+|
+Di dalam Construct 2, bagaimana cara menjalankan game untuk melihat hasil sementara dari pembuatan game tersebut?;
+A. Klik Simpan;
+B. Klik Pratinjau;
+C. Klik Berhenti;
+B. Klik Pratinjau;
+|
+Apa itu Kodular?;
+A. Tempat;
+B. Platform tidak aktif;
+C. Tolong;
+B. Platform tidak aktif;
+|
+Di Kodular, apa yang dimaksud dengan Komponen ?;
+A. Elemen dasar aplikasi seperti tombol, gambar, dan label teks;
+B. Pengaturan tampilan layar aplikasi;
+C. Kumpulan kode untuk menjalankan aplikasi;
+A. Elemen dasar aplikasi seperti tombol, gambar, dan label teks;
+|
+Dibawah ini manakah yang termasuk sistem operasi?;
+A. Windows;
+B. Android;
+C. apple;
+A. Windows;
+|
+2000MB Berapa GB?;
+A. 200GB;
+B. 20GB;
+C. 2GB;
+C. 2GB;
+|
+Jenis kabel yang biasa digunakan untuk membuat jaringan komputer adalah kabel?;
+A. UTP;
+B. Coaksial;
+C. Fiber Optic;
+A. UTP;
+|
